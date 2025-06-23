@@ -1,3 +1,6 @@
+![odo2](https://github.com/user-attachments/assets/f41f3e62-b777-4669-84c9-e4851b3fd792)
+![odo1](https://github.com/user-attachments/assets/e54bcf71-3ba3-4fb7-834d-b4898526d041)
+
 # Odoo
 
 Odoo is an open-source suite of web applications for business management.
@@ -8,7 +11,7 @@ Odoo is an open-source suite of web applications for business management.
 
 ```bash
 git clone https://github.com/kram3ko/Odoo-Persons.git
-cd <project-folder>
+cd <your-project-folder>
 ```
 
 2. Install dependencies using [uv](https://github.com/astral-sh/uv):
